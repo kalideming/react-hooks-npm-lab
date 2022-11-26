@@ -1,0 +1,28 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kalideming/react-hooks-npm-lab.git"
+  },
+  "keywords": [
+    "code",
+    "along"
+  ],
+  "author": "kali deming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalideming/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/kalideming/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
